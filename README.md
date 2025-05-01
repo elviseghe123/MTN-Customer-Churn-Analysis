@@ -19,14 +19,16 @@ This project analyzes customer churn data from **MTN Nigeria**, aiming to identi
 
 ---
 
+![Dashboard](Executive Summary.PNG)
 
+![Page 1](https://github.com/user-attachments/assets/535f556b-3284-4448-8361-3d6baff4fe00)
 
+---
 ## 🔗 Data Source
 
 - [MTN Nigeria Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn)
 
 ---
-
 ## 🛠️ Tools Used
 
 - **Microsoft Excel** – For data cleaning and transformation
