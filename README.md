@@ -16,6 +16,17 @@
 ## 📘 Project Overview
 
 This project analyzes customer churn data from **MTN Nigeria**, aiming to identify the key reasons customers leave the service, understand usage and revenue behavior, and recommend strategies to improve retention. The data was cleaned in **Excel** and visualized using **Power BI**, with KPIs and DAX measures used to drive business insights. The final dashboard allows stakeholders to interact with the data and explore patterns in churn, satisfaction, and plan performance.
+Aims and Objectives
+Aim:
+To use data analysis and visualization to understand customer churn patterns and revenue performance in order to recommend actions that reduce churn and maximize customer value.
+Objectives:
+- To determine the churn rate and distribution across customer segments.
+- To identify the main reasons customers are leaving.
+- To segment revenue by plan, device type, region, and customer demographics.
+- To assess satisfaction rates in relation to churn.
+- To categorize subscription plans and evaluate performance per category.
+- To provide data-driven recommendations to stakeholders.
+
 
 ---
 
