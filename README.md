@@ -30,7 +30,12 @@ Objectives:
 
 ---
 
-![Dashboard](Executive Summary.PNG)
+## 📊 Dashboard Access
+
+You can view the full interactive Power BI dashboard here:
+
+🔗 [Click to open the MTN Churn Dashboard](https://uniportedung-my.sharepoint.com/:u:/g/personal/eeghe061_uniport_edu_ng/EfiuXR_3BlVOiZ3wVSz3zd8BFPHe6LMhHNGrb1F41jOCGA?e=TjgBNa)
+
 
 ![Page 1](https://github.com/user-attachments/assets/535f556b-3284-4448-8361-3d6baff4fe00)
 
