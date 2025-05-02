@@ -141,8 +141,8 @@ You can view the full interactive Power BI dashboard here:
 
 1. Download the cleaned dataset or use the original Kaggle link.
 2. Load the data into Power BI.
-3. Import the theme file (`MTN_Customer_Churn_Theme.json`) for brand colors.
-4. Open the `.pbix` report file and explore KPIs using slicers.
+3. Use MTN brand colors.
+4. Open the `.pbix` report file link and explore KPIs using slicers.
 5. Use insights to guide retention, marketing, and plan improvement decisions.
 
 ---
